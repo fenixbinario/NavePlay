@@ -5,4 +5,6 @@ Ide: QT Creator
 Licencia: *
 
 # Screen
+
+.. image:: ../screen/inicio.png
 Capturas de pantallas en la carpeta SCREEN.
