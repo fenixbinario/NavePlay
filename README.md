@@ -7,4 +7,6 @@ Licencia: *
 # Screen
 
 .. image:: ../screen/inicio.png
+   :alt:
+   :align: center
 Capturas de pantallas en la carpeta SCREEN.
